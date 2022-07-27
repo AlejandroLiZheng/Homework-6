@@ -123,3 +123,10 @@ class MonthDays {
         return numberOfDays;
     }
 }
+
+compile:
+run:
+Enter a month (1-12): 12
+Enter a year: 2001
+2001 has 31 days
+BUILD SUCCESSFUL (total time: 8 seconds)
